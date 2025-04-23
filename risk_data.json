@@ -1,0 +1,95 @@
+{
+    "positions": {
+        "EUR_USD": {
+            "instrument": "EUR_USD",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:10.645754+00:00",
+            "trailing_stop": 1.0998900000000003
+        },
+        "USD_JPY": {
+            "instrument": "USD_JPY",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.01,
+            "entry_time": "2025-04-10T04:44:13.961762+00:00",
+            "trailing_stop": 146.821
+        },
+        "GBP_USD": {
+            "instrument": "GBP_USD",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:17.115195+00:00",
+            "trailing_stop": 1.286675
+        },
+        "USD_CHF": {
+            "instrument": "USD_CHF",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:20.308833+00:00",
+            "trailing_stop": 1.0998900000000003
+        },
+        "AUD_USD": {
+            "instrument": "AUD_USD",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:23.472792+00:00",
+            "trailing_stop": 1.0998900000000003
+        },
+        "NZD_USD": {
+            "instrument": "NZD_USD",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:26.729541+00:00",
+            "trailing_stop": 1.0998900000000003
+        },
+        "USD_CAD": {
+            "instrument": "USD_CAD",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:30.153416+00:00",
+            "trailing_stop": 1.40657
+        },
+        "EUR_GBP": {
+            "instrument": "EUR_GBP",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.0001,
+            "entry_time": "2025-04-10T04:44:33.381454+00:00",
+            "trailing_stop": 1.0998900000000003
+        },
+        "EUR_JPY": {
+            "instrument": "EUR_JPY",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.01,
+            "entry_time": "2025-04-10T04:44:36.841358+00:00",
+            "trailing_stop": 161.222
+        },
+        "GBP_JPY": {
+            "instrument": "GBP_JPY",
+            "direction": "long",
+            "entry_price": 1.1110000000000002,
+            "predicted_trailing_pips": 2.0,
+            "pip_size": 0.01,
+            "entry_time": "2025-04-10T04:44:40.342365+00:00",
+            "trailing_stop": 188.69
+        }
+    },
+    "trades": []
+}
